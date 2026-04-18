@@ -1,3 +1,0 @@
-2026-04-01 11:00:01 | GET_REQUEST user=guest ip=192.168.1.20 endpoint=/search?q=test
-2026-04-01 11:00:05 | GET_REQUEST user=guest ip=192.168.1.20 endpoint=/search?q=' OR 1=1
-2026-04-01 11:00:06 | GET_REQUEST user=guest ip=192.168.1.20 endpoint=/search?q=' OR 'a'='a
