@@ -3,7 +3,8 @@ AI-Powered Detection & Forensic Prioritization Architecture
 
 The Concept
 
-In modern SOC environments, analysts are overwhelmed by thousands of daily logs. HEIST - High-Efficiency Intelligent Security Tracker) uses Machine Learning to filter background noise and highlight actual security incidents.
+In modern SOC environments, analysts are overwhelmed by thousands of daily logs.
+.HEIST - High-Efficiency Intelligent Security Tracker) uses Machine Learning to filter background noise and highlight actual security incidents.
 
 Key AI Features
 
